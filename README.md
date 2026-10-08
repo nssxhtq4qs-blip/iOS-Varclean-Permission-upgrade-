@@ -1,5 +1,6 @@
 # iOS-Varclean-Permission-upgrade-
 Clearing jailbreak leftovers from older versions in iOS，And add permission escalation (with filza）
+Supported from 17.0 to 18.7.2
 Features:
 1.Clean up leftover traces from an older version of jailbreak before upgrading to a newer version of jailbreaonly
 2. have installed filzaDS to provide read and write access to the var directory. But note that I didn't Grant permissions to other directories permito give users who have installed filzaDS read and write access to the var directory. But note that I didn't add permission changes to any other subfolders besides mobile (which could have been done), but doing so would have caused countless issu，Like starting a loop
